@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-rxxt9vh8)+7#r95!gwfxvdzzt%54q_!%ia=tq^8w04avj#73n+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todokapsins.pythonanywhere.com']
 
 
 # Application definition
